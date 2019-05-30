@@ -97,10 +97,13 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 
-* **Alejandro Molina** - [DataLab](http://mid.geoint.mx/site/integrante/id/15.html)
+* **Alejandro Molina villegas** - [dblp](https://dblp.uni-trier.de/pers/hd/m/Molina=Villegas:Alejandro)
 
 
 ## License
+
+
+En proceso
 
 <!-- This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details -->
 
