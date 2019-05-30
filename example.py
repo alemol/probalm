@@ -1,7 +1,8 @@
 import os
 import kenlm
 
-LM = os.path.join(os.path.dirname(__file__), 'models', 'transcrip_efinfo_noloc_2017-2018_trie.binary')
+#LM = os.path.join(os.path.dirname(__file__), 'models', 'transcrip_efinfo_noloc_2017-2018_trie.binary')
+LM = os.path.join(os.path.dirname(__file__), 'models', 'CIEMPIESS_LIGHT_trie.binary')
 model = kenlm.LanguageModel(LM)
 print('{0}-gram model'.format(model.order))
 
