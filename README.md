@@ -2,11 +2,20 @@
 
 Generación de modelo de lenguaje basado en transcripciones de EFINFO del 2017 y 2018.
 
+
+### Prerequisites
+Ken Language Model y algunas dependencias
+
+https://kheafield.com/code/kenlm/dependencies/
+
+```
+sudo apt-get install libcurl4
+sudo apt install libeigen3-dev
+```
+
 ## Getting Started
 
 Si ya se tienen los modelos generados o se van a usar los modelos de esta distribución solamente hay que tener python3 y kenlm==0.0.0.
-
-### Prerequisites
 
 
 ```
